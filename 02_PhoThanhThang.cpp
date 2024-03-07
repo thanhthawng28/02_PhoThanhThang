@@ -1,2 +1,2 @@
-print"hello thang"
+print"hello world"
 in hello
